@@ -249,7 +249,7 @@ body {
 /* --------------------------
    💻 Small Laptops (769px – 1024px)
 ----------------------------- */
-@media screen and (min-width: 769px) and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .App {
     max-width: 650px;
   }
